@@ -1,6 +1,6 @@
 using PlatformService.Models;
 
-namespace IPlatformService.Data
+namespace PlatformService.Data
 {
     public interface IPlatformRepository
     {

@@ -138,3 +138,4 @@ D:\Bhavya\PlatformService\obj\Debug\net8.0\refint\PlatformService.dll
 D:\Bhavya\PlatformService\obj\Debug\net8.0\PlatformService.pdb
 D:\Bhavya\PlatformService\obj\Debug\net8.0\PlatformService.genruntimeconfig.cache
 D:\Bhavya\PlatformService\obj\Debug\net8.0\ref\PlatformService.dll
+D:\Bhavya\PlatformService\obj\Debug\net8.0\PlatformService.sourcelink.json
